@@ -1,0 +1,10 @@
+
+POST http://localhost:5000/api/values
+Content-Type: application/json
+Accept: application/json
+
+{
+"Id":1,
+"Name":"name",
+"Values":"No"
+}
